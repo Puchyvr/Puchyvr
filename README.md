@@ -12,4 +12,13 @@
 
 🖋️Frameworks e IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,laravel,pycharm,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,laravel,pycharm,arduino,vscode,visualstudio,netbeans)](https://skillicons.dev)
+
+📋Bases de datos:
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+⚙️Sistemas Operativos:
+
+[![My Skills](https://skillicons.dev/icons?i=windows,debian,kali)](https://skillicons.dev)
+
