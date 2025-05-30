@@ -12,4 +12,4 @@
 
 🖋️Frameworks e IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,django,bootstrap,laravel,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,laravel,pycharm,arduino)](https://skillicons.dev)
