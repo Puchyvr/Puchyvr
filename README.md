@@ -20,5 +20,5 @@
 
 ⚙️Sistemas Operativos:
 
-[![My Skills](https://skillicons.dev/icons?i=windows,debian,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,kali)](https://skillicons.dev)
 
