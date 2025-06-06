@@ -8,7 +8,7 @@
 
 🌐Lenguajes de programación:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,cpp,c,cs)](https://skillicons.dev)
 
 🖋️Frameworks e IDEs
 
